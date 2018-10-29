@@ -1,0 +1,46 @@
+/* {
+	border: 1px dotted rgba(8, 44, 248, 0.644);
+  }*/
+body {
+	width: 100%;
+	margin: 0;	
+	background: url("../images/ccback.jpg");
+	background: flex;	
+}
+
+.gemBox {
+text-align: center;
+border: 4px dotted rgba(8, 44, 248, 0.644);
+}
+
+.btn-default {
+	height: 100px;
+	width: 100px;
+}
+
+.containerMain {
+	padding: 0 20px;
+}
+
+
+
+.crystal {
+	height: 90px;
+	width: 90px;
+	padding-right: 15px;
+	padding-bottom: 5px;
+}
+
+
+
+#targetNumber,
+#totalScoreNumber {
+	font-size: 22px;
+}
+
+.panel.panel-primary {
+	background-color: rgba(245, 245, 245, .60);
+}
+.panel-body1 {
+	border: 4px dotted rgba(248, 2, 2, 0.233);
+}
